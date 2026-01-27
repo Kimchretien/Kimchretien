@@ -16,11 +16,6 @@
 
 ---
 
-### 🧠 Langages les plus utilisés
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimchretien&layout=compact&theme=tokyonight)
-
----
-
 ### 🛠 Languages & Tools
 
 #### Languages
