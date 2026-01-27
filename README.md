@@ -12,7 +12,8 @@
 ---
 
 #### Productivity / Coding Stats
-![WakaTime](https://wakatime.com/badge/user/Kimchretien.svg)
+
+
 
 ---
 
