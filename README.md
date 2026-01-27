@@ -1,7 +1,7 @@
 ## 👋 Salut, moi c’est Kim  
 
 🎓 Développeur passionné  
-💻 Java | Flutter | JavaScript  
+💻 Java | Flutter | PHP  
 🚀 En apprentissage continu
 
 ---
