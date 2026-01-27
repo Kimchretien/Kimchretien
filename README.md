@@ -11,6 +11,11 @@
 
 ---
 
+#### Productivity / Coding Stats
+![WakaTime](https://wakatime.com/badge/user/Kimchretien.svg)
+
+---
+
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimchretien&show_icons=true&theme=tokyonight)
 
