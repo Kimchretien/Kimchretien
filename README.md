@@ -12,8 +12,10 @@
 ---
 
 #### Productivity / Coding Stats
+[![wakatime](https://wakatime.com/badge/user/3efa4137-f484-48f5-8bb3-b6de15471f7.svg)](https://wakatime.com/@Kimchretien)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
