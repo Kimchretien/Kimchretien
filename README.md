@@ -14,8 +14,7 @@
 #### Productivity / Coding Stats
 [![wakatime](https://wakatime.com/badge/user/c71d10dc-bf34-446f-b7d1-fefed0cfcdb3.svg)](https://wakatime.com/@c71d10dc-bf34-446f-b7d1-fefed0cfcdb3)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ---
 
