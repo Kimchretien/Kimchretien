@@ -6,10 +6,6 @@
 
 ---
 
-### 👀 Visiteurs
-![Visitors](https://komarev.com/ghpvc/?username=Kimchretien&color=blue)
-
----
 
 #### Productivity / Coding Stats
 [![wakatime](https://wakatime.com/badge/user/c71d10dc-bf34-446f-b7d1-fefed0cfcdb3.svg)](https://wakatime.com/@c71d10dc-bf34-446f-b7d1-fefed0cfcdb3)
