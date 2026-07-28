@@ -2,7 +2,6 @@
 
 🎓 Développeur passionné  
 💻 Java | Flutter | PHP | Kotlin
-🚀 En apprentissage continu
 
 ---
 
